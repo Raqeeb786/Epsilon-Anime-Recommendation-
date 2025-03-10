@@ -53,6 +53,7 @@ Use the recommendation system to get personalized anime recommendations.
 
 ## Project Structure
 The project structure is organized as follows:
+
 Epsilon/
 ├── data/                   # Directory to store datasets
 ├── notebooks/              # Jupyter Notebooks for data analysis
