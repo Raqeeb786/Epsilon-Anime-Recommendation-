@@ -1,4 +1,4 @@
-#Epsilon Data Analytics Competition
+## Epsilon Data Analytics Competition
 
 This repository contains code and Jupyter notebooks for the Epsilon Data Analytics Competition (Round 2). The competition focuses on building an anime recommendation system for two firms: Anime X and Anime Y.
 
