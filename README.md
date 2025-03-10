@@ -14,7 +14,6 @@ The goal of this project is to develop an anime recommendation system using data
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Libraries Used](#Libraries-Used)
 - [conclusion](#Conclusion)
 - [Contributing](#contributing)
@@ -50,17 +49,6 @@ To run the anime recommendation system, follow these steps:
 Prepare the dataset and place it in the data/ directory.
 Run the Jupyter Notebook files to perform data analysis and build the recommendation model.
 Use the recommendation system to get personalized anime recommendations.
-
-## Project Structure
-The project structure is organized as follows:
-
-Epsilon/n
-├── data/                   # Directory to store datasets/n
-├── notebooks/              # Jupyter Notebooks for data analysis
-├── models/                 # Trained machine learning models
-├── src/                    # Source code for data processing and model building
-├── requirements.txt        # List of required dependencies
-└── README.md               # Project README file
 
 ## Libraries Used
 - Pandas: For data manipulation and cleaning.
